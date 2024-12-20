@@ -14,4 +14,5 @@ Please include a summary of the change or which issue is fixed.
 - Frontend
 - Backend
 - Infrastructure
+- Testing
 - Documentation
