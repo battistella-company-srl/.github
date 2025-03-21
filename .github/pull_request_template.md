@@ -4,6 +4,7 @@ Please include a summary of the change or which issue is fixed.
 
 ## Type of change
 
+- Refactoring (code improvement which doesn't affect functionality)
 - Cleanup (non-breaking change which removes unused/deprecated functionality)
 - New feature (non-breaking change which adds functionality)
 - Bug fix (non-breaking change which fixes an issue)
